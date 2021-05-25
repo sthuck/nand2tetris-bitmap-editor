@@ -1,5 +1,6 @@
 {
   "name": "bitmap-sheker",
+   "homepage": "https://sthuck.github.io/nand2tetris-bitmap-editor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
